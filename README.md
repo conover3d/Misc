@@ -28,4 +28,5 @@ They're made by using the source svg files of Twitter emojis (so they look simil
 ### VacantCell Documentation
 This is a pdf explaining how to clean your Maya scene files of the VacantCell string. I'm not sure what initially causes this but I make sure to scrub all scene files I download/have of it since it'll cause errors for more robust scenes. I've found that every maya file I've downloaded online has VacantCell present within it so clearly it isn't such an issue that people are worried about it, I just wanted to make sure my Maya files are free of it in case someone else knows about it
 
+
 I've also included an old UV checker I got from my time at Full Sail just in case someone else finds it handy
